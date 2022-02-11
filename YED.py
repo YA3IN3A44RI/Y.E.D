@@ -24,7 +24,7 @@ try :
         Created By    :        YA3IN
         
         Telegram      :        https://t.me/Mister_Ya3in
-        Instagram     :        https://instagram.com/Mister_Ya3in
+        Instagram     :        https://instagram.com/y_saffari
         Github        :        https://github.com/YA3IN3SA44RI
         """)
     banner()
